@@ -4,3 +4,6 @@ Ejemplo:
 input: Coder 
 Output: Hola Coder
 */
+
+const usuario = prompt('Escribe tu nombre de usuario')
+alert (`Hola ${usuario} un gusto saludarte!`)
